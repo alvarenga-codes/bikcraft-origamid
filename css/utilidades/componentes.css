@@ -17,8 +17,17 @@
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   transition: background 0.3s ease;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
+  max-width: max-content;
 }
 
+.btn.secundario {
+  background: var(--cor-10);
+  color: var(--cor-2);
+}
+
+.btn.secundario:hover {
+  background: var(--cor-9);
+}
 .btn:hover {
   background: linear-gradient(to bottom, #ffb60d, #e59317);
 }
