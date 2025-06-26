@@ -17,6 +17,7 @@
 
 .bicicletas-imagem img {
   grid-area: 1/1;
+  height: auto;
 }
 
 .bicicletas-imagem span {
@@ -69,6 +70,7 @@
 
 .bicicletas-conteudo img {
   width: 24px;
+  height: auto;
   margin-right: 8px;
 }
 
