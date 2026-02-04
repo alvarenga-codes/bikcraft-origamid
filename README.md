@@ -123,6 +123,8 @@ Desenvolvendo este projeto, consolidei conhecimentos em:
 
 Este projeto faz parte do curso **HTML e CSS para iniciantes** da Origamid.
 
+[![Certificado](https://img.shields.io/badge/Ver%20Certificado-Origamid-orange)](https://www.origamid.com/certificate/b6ef411a)
+
 ---
 
 ## 👤 Autor
