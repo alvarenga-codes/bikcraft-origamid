@@ -3,32 +3,31 @@
 [![Curso](https://img.shields.io/badge/Curso-Origamid-blue)]()
 [![Status](https://img.shields.io/badge/Status-Concluído-success)]()
 
-![Screenshot](./screenshots/desktop.png)
+![Screenshot](./screenshots/1-home.jpg)
 
-> Projeto desenvolvido durante o curso [NOME DO CURSO] da Origamid
+> Projeto desenvolvido durante o curso HTML e CSS para iniciantes da Origamid
 
 ## 🔗 Links
 
-- **Demo ao vivo:** [LINK GITHUB PAGES]
-- **Curso:** [Origamid - Nome do Curso](https://www.origamid.com)
+- **Demo ao vivo:** https://github.com/alvarenga-codes/bikcraft-origamid
+- **Curso:** [Origamid - HTML e CSS para iniciantes](https://www.origamid.com)
 
 ---
 
 ## 📋 Sobre
 
-Projeto completo desenvolvido como exercício final do curso **[NOME DO CURSO]** da [Origamid](https://origamid.com).
+Projeto completo desenvolvido como exercício final do curso **HTML e CSS para inciantes** da [Origamid](https://origamid.com).
 
-O objetivo era praticar e consolidar conhecimentos de [TECNOLOGIAS PRINCIPAIS], criando um site profissional e responsivo do zero.
+O objetivo era praticar e consolidar conhecimentos de HTML e CSS, criando um site profissional e responsivo do zero.
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
 
-- ✅ Dominar [Tecnologia 1]
-- ✅ Praticar [Técnica específica]
-- ✅ Implementar [Funcionalidade]
+- ✅ Dominar HTML e CSS
+- ✅ Praticar tags, responsividade e estilos
 - ✅ Criar layout responsivo completo
-- ✅ Trabalhar com [Conceito específico]
+- ✅ Trabalhar com site de múltipas páginas
 
 ---
 
@@ -44,19 +43,14 @@ O objetivo era praticar e consolidar conhecimentos de [TECNOLOGIAS PRINCIPAIS], 
 
 ### Funcionalidades
 
-- [Lista de funcionalidades principais]
 - Navegação entre múltiplas páginas
 - Formulários com validação
 - Menu responsivo
-- Animações em scroll
-- [Outras funcionalidades específicas]
 
 ### Técnicas Aplicadas
 
 - HTML5 semântico
 - CSS moderno (variáveis, Grid, Flexbox)
-- JavaScript ES6+ (se aplicável)
-- Mobile-first approach
 - Acessibilidade (ARIA, semântica)
 
 ---
@@ -65,7 +59,6 @@ O objetivo era praticar e consolidar conhecimentos de [TECNOLOGIAS PRINCIPAIS], 
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização avançada
-- **JavaScript ES6+** - Interatividade
 - **Git** - Versionamento
 - **GitHub Pages** - Deploy
 
@@ -75,7 +68,6 @@ O objetivo era praticar e consolidar conhecimentos de [TECNOLOGIAS PRINCIPAIS], 
 - CSS Flexbox
 - CSS Custom Properties
 - Responsive Design
-- [Conceitos específicos do curso]
 
 ---
 
@@ -84,49 +76,37 @@ O objetivo era praticar e consolidar conhecimentos de [TECNOLOGIAS PRINCIPAIS], 
 ```
 projeto/
 ├── index.html              # Página principal
-├── [outras-paginas].html   # Outras páginas
+├── bicicletas.html         # Página de bicicletas
+├── contato.html            # Formulário de contato
+├── orcamento.html          # Página de orçamento
+├── seguros.html            # Página de seguros
+├── termos.html             # Página de termos
 ├── css/
 │   ├── style.css          # Estilos principais
-│   └── [outros].css       # Estilos específicos
+│   └── components         # Estilos específicos
 ├── js/
 │   └── script.js          # Scripts
 ├── img/                   # Imagens
 └── README.md
 ```
 
----
-
-## 🚀 Como Executar
-
-```bash
-# Clone o repositório
-git clone [URL_DO_REPO]
-
-# Entre na pasta
-cd [nome-do-projeto]
-
-# Abra o index.html no navegador
-# Ou use um servidor local:
-python -m http.server 8000
-
-# Acesse: http://localhost:8000
-```
-
----
-
 ## 📸 Screenshots
 
-### Desktop
+### Home
 
-![Desktop](./screenshots/desktop.png)
+![Home](./screenshots/1-home.jpg)
 
-### Tablet
+### Bicicletas
 
-![Tablet](./screenshots/tablet.png)
+![Bicicletas](./screenshots/2-bike.jpg)
 
-### Mobile
+### Contato
 
-![Mobile](./screenshots/mobile.png)
+![Contato](./screenshots/3-contato.jpg)
+
+### Seguro
+
+![Seguro](./screenshots/4-seguro.jpg)
 
 ---
 
@@ -134,27 +114,14 @@ python -m http.server 8000
 
 Desenvolvendo este projeto, consolidei conhecimentos em:
 
-- **[Tecnologia 1]:** [O que aprendeu especificamente]
-- **[Tecnologia 2]:** [O que aprendeu especificamente]
-- **[Conceito]:** [O que aprendeu especificamente]
-
-### Desafios Superados
-
-- [Desafio 1 e como resolveu]
-- [Desafio 2 e como resolveu]
-
-### Próximos Passos
-
-- [ ] [Melhoria futura 1]
-- [ ] [Melhoria futura 2]
+- **HTML:** Semântica aplicada na prática
+- **CSS:** Estilização modular
 
 ---
 
 ## 🎓 Certificado
 
-Este projeto faz parte do curso **[Nome do Curso]** da Origamid.
-
-[![Certificado](https://img.shields.io/badge/Ver%20Certificado-Origamid-orange)](LINK_CERTIFICADO)
+Este projeto faz parte do curso **HTML e CSS para iniciantes** da Origamid.
 
 ---
 
@@ -163,8 +130,8 @@ Este projeto faz parte do curso **[Nome do Curso]** da Origamid.
 **Rodrigo Alvarenga**  
 _Desenvolvedor Frontend & UI Designer_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](SEU_GITHUB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarenga.frontend@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvarenga-codes)
 
 ---
 
